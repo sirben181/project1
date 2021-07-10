@@ -1,0 +1,18 @@
+*{box-sizing:border-box;}
+body{background:#dcdcdc;
+max-height:100vh;
+margin:0px;
+overflow:hidden;
+}
+.container h2{transform:uppercase;}
+.container{background:#fff;
+width:400px;
+margin-top:200px;
+margin-left:200px;}
+.container ul{list-style:none;}
+.submitbtn{background:rgb(54, 54, 146);
+width:100%;
+border-radius:10px;
+padding:10px;}
+.submitbtn:hover{background:#007;
+color:#fff;}
